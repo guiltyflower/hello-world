@@ -12,3 +12,12 @@ J’espère que je vais m’amuser, même si on vit la pire période de notre vi
 IT
 Mi chiamo Giovanni, vivo in Francia e tra circa due settimane sarà il mio 31simo compleanno!
 Spero di divertirmi, anche se viviamo il periodo peggiore della nostra vita. (allegria!)
+
+
+
+
+what I learned to do in GitHub
+1)Create an open source repository
+2)Start and manage a new branch
+3)Change a file and commit those changes to GitHub
+4)Open and merge a Pull Request
